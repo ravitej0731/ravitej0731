@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ... full stack web devlopment
 - 💞️ I’m looking to collaborate on ... web pages creation ,problemsolving
-- 📫 How to reach me ... gollaravitheja0072gmail.com
+- 📫 How to reach me ... gollaravitheja007@gmail.com
 - 😄 Pronouns: ... ravi,tej,ravitej
 - ⚡ Fun fact: ...
 
